@@ -1,0 +1,29 @@
+Fetch:-
+    it is aleternative for XHR(XMLHttpRequest)
+    fetch takes API as parameter.
+    Return typs is Promise.
+    body section in the fetch is a readble atream.
+    to cnovert readble stream to object(JSON) we need to use .Json() method.
+    alwasys use .then and .catch to handle promise
+
+Async-await;
+    => It is applicable to the function
+    => async alwasy returns a promise
+    =>
+    
+
+
+  <div class="row row-cols-1 row-cols-md-2 g-4">
+  <div class="col">
+    <div class="card">
+      <img src="..." class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">Capital</p>
+        <p class="card-text">Region</p>
+        <p class="card-text">Sub Region</p>
+        <p class="card-text">Population</p>
+      </div>
+    </div>
+  </div>
+  </div>
